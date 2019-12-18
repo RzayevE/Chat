@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+struct Constants {
+    struct MessageFields {
+        static let dateTime = "datetime"
+        static let text = "text"
+    }
+    static let facebookID = "227824969414-oqhcakbljvh3d1gnlavr1vs2l45dhits.apps.googleusercontent.com"
+}
